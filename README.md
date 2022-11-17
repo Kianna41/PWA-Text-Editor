@@ -12,3 +12,10 @@
 8. When the web application is loaded, it shoukd have a registered service worker using workbox
 
 ## Mock-up:
+<img width="1290" alt="Screen Shot 2022-11-17 at 6 34 32 PM" src="https://user-images.githubusercontent.com/107634328/202583351-fcc7d430-9138-4f07-a3fb-ec8e0265ae7c.png">
+
+
+
+
+Link to Heroku: https://pwa-text-editor41.herokuapp.com/
+Link to GitHub Repo: https://github.com/Kianna41/PWA-Text-Editor
