@@ -18,4 +18,7 @@
 
 
 Link to Heroku: https://pwa-text-editor41.herokuapp.com/
+
 Link to GitHub Repo: https://github.com/Kianna41/PWA-Text-Editor
+
+Link to GitHub URL: https://kianna41.github.io/PWA-Text-Editor/
